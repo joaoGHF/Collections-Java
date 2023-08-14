@@ -1,0 +1,2 @@
+cadastroprodutos.ComparatorPreco
+cadastroprodutos.Produto
